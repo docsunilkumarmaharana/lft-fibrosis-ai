@@ -79,4 +79,3 @@ st.warning(
     "Educational/research prototype only. Scores are not diagnoses. "
     "Do not use for clinical decisions."
 )
-```
